@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local Backtest Output Artifacts
+logs/
+*.html
+*.json
+*.csv
+
+# Secrets
+.env
