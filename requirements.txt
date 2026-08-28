@@ -1,0 +1,7 @@
+torch
+transformers
+lumibot
+alpaca-trade-api
+yfinance
+pandas
+requests
